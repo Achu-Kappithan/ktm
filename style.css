@@ -1,0 +1,359 @@
+.nav{
+    background-image: url(https://s7g10.scene7.com/is/image/ktm/KTM_990_RCR_Action-10?wid=2000&dpr=off);
+    background-size:100% 100%;
+    background-position: center;
+    width:100%;
+    height:700px;
+}
+body{
+    margin: 0px;
+    margin-top:-36px;
+}
+.navbar{
+    width:100%;
+    height: 130px;
+}
+ul{
+    color: #fff;
+    list-style: none;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+
+
+}
+li{
+    float: left;
+    padding:20px;
+    padding-top:60px
+}
+#loction{
+    width: 5mm;
+    height: 5mm;
+    margin-bottom:60px;
+    margin-left: 270px;
+  
+}
+#glob{
+    width: 5mm;
+    height: 5mm;
+    margin-left:20px;
+    margin-bottom: 60px;   
+}
+.logo{
+    height: 140px;
+    width: 140px;
+    margin-left: 70px;
+}
+.alltext{
+    text-align: center;
+    color: #fff;
+    width: 800px;
+    position: absolute;
+    margin-left:320px;
+    margin-top: 100px;
+    line-height: 20px;
+    font-weight: bold;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serifx;
+}
+.alltext:hover{
+    display: none;
+}
+.text1{
+    font-size: 25px;
+    font-weight: bold;
+    color: #fff;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serifx;
+    font-weight: bold;
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 550px;
+}
+.text2{
+    font-size: 70px; 
+    color:#fff ;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serifx;
+    font-weight: bold;
+    margin-top: 200px;
+    margin-left: 300px;
+}
+.midle{
+    width: 100%;
+    height: 500px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}  
+#midle2{
+    width:94%;
+    height:400px;
+    background-image: url(https://s7g10.scene7.com/is/image/ktm/config-banner?wid=1500&dpr=off);
+    background-size:100% 100%;
+    background-position:center;
+    color: #fff;
+}
+.center{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.ce-chaild1{
+    width: 32%;
+    height: 400px;
+    background-image: url(https://s7g10.scene7.com/is/image/ktm/150669_%20KTM%20390%20DUKE%20MY%202017:Medium?wid=875&hei=657&dpr=off);
+    background-size: 100% 100%;
+}
+.ce-chaild2{
+    width: 32%;
+    height: 400px;
+    background-image: url(https://s7g10.scene7.com/is/image/ktm/390adv2020:Medium?wid=875&hei=657&dpr=off);
+    background-size: 100% 100%;
+}
+.ce-chaild3{
+    width: 32%;
+    height: 400px;
+    background-image: url(https://s7g10.scene7.com/is/image/ktm/rc22-supermoto-abs-us:Medium?wid=875&hei=655&dpr=off);
+    background-size: 100% 100%;
+}
+.centertext{
+    width: 100%;
+    height: 380px;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.ce-te-chaild1{
+    width: 30%;
+    height: 150px;
+}
+.ce-te-chaild2{
+    width: 30%;
+    height: 150px;
+}
+.ce-te-chaild3{
+    width: 30%;
+    height: 150px;
+}
+.center-text{
+    width: 100%;
+    height: 150px;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.sub-1{
+    font-family: monospace;
+    font-size:16px;
+    line-height: 3px;
+}
+.sub-2{
+    font-family:sans-serif;
+    font-size:25px;
+    font-weight: bold;
+}
+.ce-chaild-11{
+    width: 30%;
+    height: 400px;
+    background-image: url(https://s7g10.scene7.com/is/image/ktm/LE_POR_?$ktm_teaser_square$&wid=500&dpr=off);
+    background-size: 100% 100%;
+}
+.ce-chaild-21{
+    width: 30%;
+    height: 400px;
+    background-image: url(https://s7g10.scene7.com/is/image/ktm/CHASE%20SEXTON%20-%20RED%20BULL%20KTM%20-%20DENVER?$ktm_teaser_square$&wid=500&dpr=off);
+    background-size: 100% 100%;
+}
+.ce-chaild-31{
+    width: 30%;
+    height: 400px;
+    background-image: url(https://s7g10.scene7.com/is/image/ktm/Manuel%20Lettenbichler%20-%20Red%20Bull%20KTM%20Factory%20Racing%20-%202024%20Hard%20Enduro%20preview?$ktm_teaser_square$&wid=500&dpr=off);
+    background-size: 100% 100%;
+}
+.ce-te-chaild-11{
+    width: 30%;
+    height: 300px;
+}
+.ce-te-chaild-21{
+    width: 30%;
+    height: 300px;
+}
+.ce-te-chaild-31{
+    width: 30%;
+    height: 300px;
+}
+.date{
+    font-size: 15px;
+    font-family:cursive;
+}
+.headline{
+    font-size:25PX;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+
+}
+.headline:hover{
+    color: orangered;
+}
+.contant{
+    font-size:20PX;
+    line-height: 35PX;
+}
+ .footer{
+    width:100%;
+    height: 600px;
+}
+.footer1{
+    width:94%;
+    height: 600px; 
+    margin-left: 50px;
+    background-color: black;
+}
+.footer1-1{
+    width:50%;
+    height: 600px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    background-size: 100% 100%;
+    background-position: center;
+
+}
+.f-chaild1{
+    background-image:url(https://d3pelj80y5v5k4.cloudfront.net/81c52c9d-bae1-4a96-9bbd-b929a55c1876?w=400&h=400&q=85&nu=1&webp=1);
+    width:100%;
+    height: 100%;
+    background-position:left;
+   
+}
+.f-chaild2{
+    background-image: url(https://d3pelj80y5v5k4.cloudfront.net/229b5297-0d3d-4555-849a-ed1f0bda4854?w=400&h=400&q=85&nu=1&webp=1);
+    width:100%;
+    height: 100%;
+   
+}
+.f-chaild3{
+    background-image:url(https://d3pelj80y5v5k4.cloudfront.net/300272b1-6ddd-40fd-aca7-3aee5710d985?w=400&h=400&q=85&nu=1&webp=1);
+    width:100%;
+    height: 100%;
+   
+}
+.f-chaild4{
+    background-image: url(https://d3pelj80y5v5k4.cloudfront.net/b9197115-24f9-42d2-a552-c35bc6fd3a3f?w=400&h=400&q=85&nu=1&webp=1);
+    width:100%;
+    height: 100%;
+}
+.footer2{
+    height: 200px;
+    width: 500px;
+    position: absolute;
+    margin-top:-300px;
+    margin-left: 800px;
+    text-align: center;
+    line-height: 3px;
+}
+#insta{
+    font-size: 30px;
+    color: #fff;
+}
+#redytorace{
+    font-size: 20px;
+    color:rgb(207, 201, 201) ;
+}
+.button{
+    height: 50px;
+    width: 150PX;
+    background-color: rgb(8, 8, 8);
+    border-color: #fff;
+    color: #fff;
+    font-family: fantasy;
+    
+
+}
+.button:hover{
+    color: orangered;
+    border-color: orangered;
+    width: ;
+}
+.foot{
+    width: 100%;
+    height: 186px;
+    text-align: center;
+}
+#news{
+    font-size: 25px;
+    font-family:monospace;
+    font-weight: bold;
+    margin-top: 60px;
+}
+.BUTTON-2{
+    height:80px;
+    width: 200px;
+    font-family: monospace;
+    font-weight: bold;
+    color: #f85d04;
+    font-size:20px;
+    border-color: #f85d04;
+}
+.BUTTON-2:hover{
+    background-color: #f85d04;
+    color: #fff;
+}
+#hr{
+    margin-top: 100px;
+}
+.foot-1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.contant-1{
+    width:60%;
+    height: 180px;
+    text-align: center;
+    font-size:15px;color: rgb(165, 165, 159);
+    line-height: 20px;
+}
+.end{
+    height: 700px;
+    width: 100%;
+    background-color: black;
+}
+table{
+    color: #fff;
+    font-size: larger;
+    padding-top: 80px;
+    padding-left: 30px;
+}
+th{
+    text-align: left;
+    padding: 5px;
+    font-family: monospace;
+    font-size: 25px;
+}
+td{
+    text-align: left;
+    padding: 5px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#copyright{
+    font-size:15px;
+    color: rgb(165, 165, 159);
+    margin-left: 200px;
+    padding: 30px;
+}
+#icon{
+    margin-left: 5px ;
+}
+#backtotop{
+    color: #f95604;
+    position: absolute;
+    background-color: black;
+    margin-left: 88%;
+    margin-top: -40px;
+    font-size:18px;
+    border: 0;
+    cursor: pointer;
+    
+}
